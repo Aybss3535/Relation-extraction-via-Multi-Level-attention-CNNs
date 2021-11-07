@@ -2,7 +2,7 @@
 
 It's a implement of this paper：[Relation Classification via Multi-Level Attention CNNs](https://aclanthology.org/P16-1123.pdf).
 
-<p align="center"><img width="100%" src="img/image-20211106172733178.png" /></p>
+<p align="center"><img width="100%" src="./img/image-20211106172733178.png" /></p>
 
 ## Training Step：
 
